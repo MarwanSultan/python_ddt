@@ -1,9 +1,9 @@
 {
-    "python.linting.enabled": true,
     "python.testing.pytestArgs": [
-        "tests"
+        "src"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestEnabled": true
+  
 }
